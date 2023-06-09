@@ -1,0 +1,21 @@
+# Compiled files
+*/target/
+
+# Generated documentation
+*/doc/
+
+# Rust toolchain
+*/.rustup
+*/rust-toolchain
+
+# Cargo lock file
+*/Cargo.lock
+
+# IDE and editor files
+/.vscode/
+.idea/
+
+# Build artifacts
+*.rlib
+*.rmeta
+*.crate
